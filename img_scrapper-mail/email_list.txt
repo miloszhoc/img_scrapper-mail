@@ -1,0 +1,4 @@
+email@example.com
+aa@domain.com
+cc@something.com
+fizz@buzz.com
